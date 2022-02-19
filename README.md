@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Odinman9847
+- 🏫 I am learning  C#
 
 
 <!---
